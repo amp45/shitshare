@@ -1,0 +1,50 @@
+.HeaderPic {
+margin: 0 auto;
+width: 900px;
+height: 100px;
+border-color: black;
+border-width: 3px;
+border-style: solid;
+background-image: url('/source.png');
+}
+
+.LoginStatus {
+float: right;
+background-color: black;
+color: white;
+font-family: Tahoma;
+padding-right: 3px;
+padding-left: 3px;
+padding-bottom: 5px;
+border-left-style: solid;
+border-left-color: white;
+border-bottom-style: solid;
+border-bottom-color: white;
+}
+
+.HeaderLinks {
+	text-align: center;
+	margin: 0 auto;
+	width: 900px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	background-color: darkred;
+	color: white;
+	font-family: Tahoma;
+	font-weight: bold;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-color: black;
+	border-right-color: black;
+	border-bottom-color: black;
+}
+
+a.logged {
+	color: yellow;
+	text-decoration: none;
+}
+
+a {
+	color: yellow;
+}
